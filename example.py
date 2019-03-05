@@ -6,7 +6,7 @@ def subtract(x, y):
     """
     return x - y
 
-def some_function(x, y):
+def add(x, y):
     """
     Returns the sum of the two arguments.
     """
