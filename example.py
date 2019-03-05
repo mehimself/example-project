@@ -31,5 +31,5 @@ if __name__ == '__main__':
     x = float(sys.argv[-2])
     y = float(sys.argv[-1])
 
-    result = simple_function(x, y)
+    result = add(x, y)
     print(result)
