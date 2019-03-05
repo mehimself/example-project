@@ -13,7 +13,7 @@ def add(x, y):
     return x + y
 
 
-def another_function(x):
+def square(x):
     """
     Returns square of the argument.
     """
