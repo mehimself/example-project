@@ -1,7 +1,7 @@
 import sys
 
 
-def simple_function(x, y):
+def some_function(x, y):
     """
     Returns the sum of the two arguments.
     """
