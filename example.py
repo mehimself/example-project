@@ -20,8 +20,8 @@ def square(x):
     return x * x
 
 
-def test_another_function():
-    assert another_function(3.0) == 9.0
+def test_square():
+    assert square(3.0) == 9.0
 
 
 if __name__ == '__main__':
